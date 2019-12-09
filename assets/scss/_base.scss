@@ -193,7 +193,7 @@ a.dotted-link {
         }
 
         .project-image {
-
+            max-width: 80%;
             &:hover {
                 @include opacity(0.8); 
             }
